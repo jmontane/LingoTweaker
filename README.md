@@ -7,6 +7,8 @@ Python and Node and compilable to WebAssembly.
 
 **[Try it out here!](https://fiduswriter.github.io/LingoTweaker/)**
 
+**[Or install the extension in Firefox or Chrome](https://www.lundinfo.com/lingotweaker/)**
+
 LingoTweaker includes a port of the [LanguageTool](https://languagetool.org) 
 proofreading engine and its rule data. Additional languages and improvements to existing 
 languages will be added over time.
